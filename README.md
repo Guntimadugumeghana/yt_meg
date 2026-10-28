@@ -49,4 +49,4 @@ Make sure to dowload in the same directory as the yt_summary.py
 streamlit run yt_summary.py
 ```
 
-Processing might take a minute... good things (and summaries) take time! 😄
+Processing might take a minute... good things (and summaries) take time!
